@@ -2,6 +2,6 @@
 
 Git be Github kavramlarının tanımı
 
-##YAN BAŞLIK
+## YAN BAŞLIK
 
 123wow
