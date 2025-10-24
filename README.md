@@ -1,6 +1,6 @@
 # zeyd_kelani_YODA_OTONOM_YAZILIM
 
-test 123
+Git be Github kavramlarının tanımı
 
 # Baslik
 
