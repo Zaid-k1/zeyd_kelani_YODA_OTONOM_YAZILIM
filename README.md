@@ -15,4 +15,4 @@ log: Bir dosyaya yapılan tüm kaydetmeleri kaydetme işleminin yapıldığı ta
 branch: Bir projenin main, yani ana dalını bozmadan yeni bir dal oluşturarak proje üzerinde çalışılmasını, değişiklikler yapılmasını sağlar. git checkout -b branchAdı komutu ile git'ten yeni bir branch oluşturulabilir.
 merge: İki branch'ın birbirleriyle birleştirilmesini sağlayan işlem.
 push: git'te oluşturulan dosyaları ya da genel olarak git'ten yapılan tüm değişikliklerin github'a aktarılmasını sağlayan işlem.
-pull: GitHub'da yapılan işlemlerin git'e aktarılmasını sağlayan işlem.
+pull: GitHub'da yapılan işlemlerin git'e aktarılmasını sağlayan işlem. 
